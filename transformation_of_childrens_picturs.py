@@ -19,3 +19,4 @@ cv2.drawContours(mask_baby_picture, con[536:743], -1, (0, 0, 255), 1)
 
 cv2.imshow('baby picture', mask_baby_picture)
 cv2.waitKey(0)
+
